@@ -182,6 +182,7 @@ colorama==0.4.6
 - [Colorama](https://github.com/tartley/colorama) for terminal color magic
 - My mentor **Mo Shami** for valuable guidance
 - **Kay Welfare**, my cohort facilitator, for ongoing support
+- **Oisin Tohak**, tutor support, for his precious help!
 
 ---
 
